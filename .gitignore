@@ -1,0 +1,29 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Logs
+logs/
+
+# Output Files
+output/
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.exe
+
+# Audio Directories
+audio/input/
+audio/output/

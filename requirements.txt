@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+faster-whisper
+faiss-cpu
+sentence-transformers
+google-genai
+elevenlabs
+pandas
+openpyxl
+python-dotenv
+pydantic
+pydantic-settings
+twilio
+torch
