@@ -25,7 +25,7 @@
 
 ## 🎥 Live Demo
 
-[![Watch the Demo](https://img.shields.io/badge/Demo-Play%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the Demo](https://img.shields.io/badge/Demo-Play%20Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=fjXRKDE958g&t=2s)
 *(Click above to watch the AI Voice Sales Agent in action handling lead qualification and scheduling!)*
 
 ---
